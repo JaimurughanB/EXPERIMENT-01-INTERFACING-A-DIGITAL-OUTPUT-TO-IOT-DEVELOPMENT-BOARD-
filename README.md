@@ -97,8 +97,6 @@ The main features of LPC2148 include the following.
    HAL_Delay(1000);
   }
 ``````
-
-
 ## OUTPUT  :
  
  ![image](https://github.com/user-attachments/assets/3add79ac-da8c-4b16-9e78-c6a45c35aeee)
